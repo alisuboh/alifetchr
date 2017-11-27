@@ -1,2 +1,2 @@
-# alifetchr
+# alirawhi
 this is first repo
